@@ -1,10 +1,12 @@
 ![The PCB](https://github.com/andilge/EC11-encoder-with-WS2811-ring/blob/main/images/board-front-and-back.png?raw=true)
 
-# Rotary encoder with a 10 WS2811 F5 LEDs segmented ring on a translucent white blinde plate
+# Rotary encoder with a 10 WS2811 F5 LEDs segmented ring on a translucent blank cover panel
 A DIY controller interface for lights with coloured LEDs.
 
 ## Credits
-The idea is inspired by [my Futai RGB encoder, 12 WS2811 F5 LED ring on a translucent blank cover panel](https://github.com/andilge/Futai-Encoder-WS2811-ring "my FFutai RGB encoder, 12 WS2811 F5 LED ring on a translucent blank cover panel"). It basically grades down to one board with one encoder without RBD LED per translucent blinde plate.
+The idea is inspired by my [Futai RGB encoder, 12 WS2811 F5 LED ring on a translucent blank cover panel](https://github.com/andilge/Futai-Encoder-WS2811-ring "my Futai RGB encoder, 12 WS2811 F5 LED ring on a translucent blank cover panel"). It basically grades down to one board with one encoder without RBD LED per translucent blank cover panel.
+
+It was composed as add on for my [8 channel LED constant current driver board](https://github.com/andilge/8ch-constant-current-LED-driver "8 channel LED constant current driver board").
 
 ## Parts list
 The folder 'fabrication' contains the zipped production files for pcb ordering and interactive bill of material ibom.html with purchase links for the components.
