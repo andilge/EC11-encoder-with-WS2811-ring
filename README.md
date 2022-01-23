@@ -1,4 +1,4 @@
-![The PCB](https://github.com/andilge/EC11-encoder-with-WS2811-ring/blob/main/images/board-front-and-back.png?raw=true)
+![The PCB](https://github.com/andilge/EC11-encoder-with-WS2811-ring/blob/main/images/board-front-and-rear.png?raw=true)
 
 # Rotary encoder with a 10 WS2811 F5 LEDs segmented ring on a translucent blank cover panel
 A DIY controller interface for lights with coloured LEDs.
