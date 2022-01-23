@@ -20,7 +20,7 @@ Additional to this you can purchase 10 blind plates also on [aliexpress.com](htt
 | SW         | Switch. Pressing it pulls down the pin to ground |
 | B          | Encoder B                                        |
 | A          | Encoder A                                        |
-| SW         | Data in                                          |
+| di         | Data in                                          |
 | 5V         | 5 Volt                                           |
 
 
